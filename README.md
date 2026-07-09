@@ -61,8 +61,4 @@ npm start               # starts on http://localhost:3000
 | POST | /api/orders | Place an order | User |
 | GET | /api/orders/myorders | Get logged-in user's orders | User |
 
-## Resume Bullet Points (suggested)
-- Built a full-stack MERN e-commerce platform with JWT authentication, role-based access control, and a REST API consumed by a React SPA.
-- Designed MongoDB schemas for users, products, and orders with Mongoose, implementing referential relationships and validation.
-- Implemented cart state management using React Context API with localStorage persistence across sessions.
 # shopease-mern
